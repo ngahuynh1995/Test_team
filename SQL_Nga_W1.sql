@@ -1,1 +1,1 @@
-SELECT * from Adbum a
+update * from Adbum a
