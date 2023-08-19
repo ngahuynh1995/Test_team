@@ -1,1 +1,1 @@
-SELECT * from Album a
+SELECT * from Adbum a
